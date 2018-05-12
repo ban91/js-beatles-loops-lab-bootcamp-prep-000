@@ -3,4 +3,5 @@ function theBeatlesPlay(music, instr){
   for (var i = 0; i < 4; i++) {
   band.push(`${music[0]} plays ${instr[0]}`);
 }
+return band
 }
