@@ -12,6 +12,7 @@ function johnLennonFacts(fact){
   var i = 0
   while (i < fact.length){
     result.push(`${fact[i]} + "!!!"`);
+    i++;
   }
   return result
 }
