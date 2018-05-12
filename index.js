@@ -10,5 +10,5 @@ return band;
 function johnLennonFacts(fact){
   var result = []
   var i = 0
-  while
+  while (i < )
 }
