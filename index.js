@@ -1,3 +1,4 @@
 function theBeatlesPlay(music, instr){
-  var band = []
+  var band = [];
+  
 }
