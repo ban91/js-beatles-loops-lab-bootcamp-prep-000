@@ -19,5 +19,7 @@ function johnLennonFacts(fact){
 
 function iLoveTheBeatles(n){
   var array = [];
-  
+  do {
+  console.log('doo-bee-doo-bee-doo')
+} while (maybeTrue());
 }
