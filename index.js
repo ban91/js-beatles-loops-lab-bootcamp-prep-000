@@ -10,5 +10,7 @@ return band;
 function johnLennonFacts(fact){
   var result = []
   var i = 0
-  while (i < fact.length)
+  while (i < fact.length){
+    result.push(`${fact} !!!`)
+  }
 }
