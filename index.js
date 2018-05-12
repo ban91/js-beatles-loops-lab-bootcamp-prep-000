@@ -21,5 +21,6 @@ function iLoveTheBeatles(n){
   var array = [];
   do {
   console.log('doo-bee-doo-bee-doo')
+  n++
 } while (n < 15);
 }
