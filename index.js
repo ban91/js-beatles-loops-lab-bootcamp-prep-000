@@ -8,9 +8,6 @@ return band;
 }
 
 function johnLennonFacts(fact){
-  var band = [];
-  for (let i = 0; i < 4; i++){
-  band.push(`${music[i]} plays ${instr[i]}`);
-}
-return band;
+  var result = []
+  var i = 0
 }
